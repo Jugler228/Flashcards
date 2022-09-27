@@ -1,0 +1,31 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+hello.txt
+1 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "hello":
+hello
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+test.txtInput the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+hello.txt
+1 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "hello":
+hello
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+test.txt
